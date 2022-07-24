@@ -1,4 +1,4 @@
-from com.solutions.problem1933.Solution import Solution
+from com.solutions.problem14852.Solution import Solution
 
 if __name__ == '__main__':
     Solution().solve()
